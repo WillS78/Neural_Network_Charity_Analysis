@@ -25,6 +25,8 @@ Anything less than 500 should be removed
 
 ### - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
+![image](https://user-images.githubusercontent.com/101777677/182747144-cf60dc64-2302-4933-aaf5-810f247dda19.png)
+
 ### - Were you able to achieve the target model performance?
 
 ### - What steps did you take to try and increase model performance?

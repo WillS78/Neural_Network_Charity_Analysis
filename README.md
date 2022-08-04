@@ -9,11 +9,11 @@ The purpose of this analysis is to help Beks be able to predict whether a partic
 
 ## Data Preprocessing
 
-### - What variable(s) are considered the target(s) for your model?
+### - What variable(s) are considered the target(s) for your model? - The Success Rate.
 
-### - What variable(s) are considered to be the features for your model?
+### - What variable(s) are considered to be the features for your model? - EIN, Name, Application Type, Classification, Organization, Income Amount, and Ask Amount 
 
-### - What variable(s) are neither targets nor features, and should be removed from the input data?
+### - What variable(s) are neither targets nor features, and should be removed from the input data? - Anything less than 500 should be removed
 
 ## Compiling, Training, and Evaluating the Model
 

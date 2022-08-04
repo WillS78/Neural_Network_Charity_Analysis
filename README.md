@@ -29,6 +29,12 @@ Anything less than 500 should be removed
 
 ### - Were you able to achieve the target model performance?
 
+![image](https://user-images.githubusercontent.com/101777677/182747225-492dd6c1-7fb5-4a84-8fd8-686dc8a01423.png)
+
 ### - What steps did you take to try and increase model performance?
 
+Trained the model, ran random forecast, fitting the model and evaluateing the model
+
 # Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+
+Overall it seemed to have a high success rate and works as intended. It will be a good tool to help Beks make investing decisions.

@@ -1,7 +1,9 @@
 # Neural_Network_Charity_Analysis
 Neural_Network_Charity_Analysis
 
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis:
+
+The purpose of this analysis is to help Beks be able to predict whether a particular investment would bring back a return or not. This way they can reduce their risk and make a more informed decision where to invest based on data.
 
 # Results: Using bulleted lists and images to support your answers, address the following questions.
 
